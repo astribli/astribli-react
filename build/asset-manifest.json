@@ -1,26 +1,19 @@
 {
   "files": {
-    "main.css": "/astribli-react/static/css/main.6f64ad71.chunk.css",
-    "main.js": "/astribli-react/static/js/main.d00ba69f.chunk.js",
-    "main.js.map": "/astribli-react/static/js/main.d00ba69f.chunk.js.map",
-    "runtime-main.js": "/astribli-react/static/js/runtime-main.d6a9f228.js",
-    "runtime-main.js.map": "/astribli-react/static/js/runtime-main.d6a9f228.js.map",
-    "static/js/2.c05e13ad.chunk.js": "/astribli-react/static/js/2.c05e13ad.chunk.js",
-    "static/js/2.c05e13ad.chunk.js.map": "/astribli-react/static/js/2.c05e13ad.chunk.js.map",
-    "static/js/3.d23aba0e.chunk.js": "/astribli-react/static/js/3.d23aba0e.chunk.js",
-    "static/js/3.d23aba0e.chunk.js.map": "/astribli-react/static/js/3.d23aba0e.chunk.js.map",
+    "main.js": "/astribli-react/static/js/main.93c0b1ab.chunk.js",
+    "main.js.map": "/astribli-react/static/js/main.93c0b1ab.chunk.js.map",
+    "runtime-main.js": "/astribli-react/static/js/runtime-main.beee308b.js",
+    "runtime-main.js.map": "/astribli-react/static/js/runtime-main.beee308b.js.map",
     "index.html": "/astribli-react/index.html",
-    "static/css/main.6f64ad71.chunk.css.map": "/astribli-react/static/css/main.6f64ad71.chunk.css.map",
-    "static/js/2.c05e13ad.chunk.js.LICENSE.txt": "/astribli-react/static/js/2.c05e13ad.chunk.js.LICENSE.txt",
+    "static/js/main.93c0b1ab.chunk.js.LICENSE.txt": "/astribli-react/static/js/main.93c0b1ab.chunk.js.LICENSE.txt",
     "static/media/GrubbyLogo.eea1bca8.png": "/astribli-react/static/media/GrubbyLogo.eea1bca8.png",
-    "static/media/Mullet.bc697080.jpg": "/astribli-react/static/media/Mullet.bc697080.jpg",
     "static/media/digital-marketing-meeting.c672fcf0.jpg": "/astribli-react/static/media/digital-marketing-meeting.c672fcf0.jpg",
-    "static/media/run-buddy.ad00b081.png": "/astribli-react/static/media/run-buddy.ad00b081.png"
+    "static/media/landingpage.fcab26ba.PNG": "/astribli-react/static/media/landingpage.fcab26ba.PNG",
+    "static/media/run-buddy.ad00b081.png": "/astribli-react/static/media/run-buddy.ad00b081.png",
+    "static/media/tourney-tracker.602f1c9d.png": "/astribli-react/static/media/tourney-tracker.602f1c9d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6a9f228.js",
-    "static/js/2.c05e13ad.chunk.js",
-    "static/css/main.6f64ad71.chunk.css",
-    "static/js/main.d00ba69f.chunk.js"
+    "static/js/runtime-main.beee308b.js",
+    "static/js/main.93c0b1ab.chunk.js"
   ]
 }
