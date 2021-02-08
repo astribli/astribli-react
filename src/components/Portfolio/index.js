@@ -45,7 +45,7 @@ function Portfolio() {
                 <div>
                     <a href="https://powerful-citadel-84342.herokuapp.com/" class="Tee-Tracker grid-item">
                         <div>
-                            <h3>Horiseon</h3>
+                            <h3>Tourney Tracker</h3>
                             <img src={tourney-tracker} className="" style={{ width: "25%", maxHeight: "350px" }} alt="people working" />
                         </div>
                         <div>
@@ -56,7 +56,7 @@ function Portfolio() {
                 <div>
                     <a href="https://arcane-reaches-47656.herokuapp.com/" class="Parents-only grid-item">
                         <div>
-                            <h3>Horiseon</h3>
+                            <h3>Parents Only</h3>
                             <img src={parents} className="" style={{ width: "25%", maxHeight: "350px" }} alt="people working" />
                         </div>
                         <div>
